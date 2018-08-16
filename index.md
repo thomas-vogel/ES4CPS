@@ -6,6 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: Explainable Software for Cyber-Physical Systems
 ---
 
 ## Motivation
