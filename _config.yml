@@ -2,7 +2,7 @@ title: Explainable Software for Cyber-Physical Systems
 description: ES4CPS 2019, GI-Dagstuhl Seminar, January 6 - 11 , 2019
 show_downloads: false
 
-baseurl: ""
+baseurl: "/ES4CPS"
 url: "https://thomas-vogel.github.io" # change this to the base hostname & protocol for your site
 
 # cayman-blog date format
