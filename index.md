@@ -36,9 +36,9 @@ It will thus be increasingly relevant for future CPS to explain their behavior (
 * Machine Learning
 * Organic Computing
 * Areas of application:
-* Robotics
-* Automotive Systems
-* Health Care Systems
+  * Robotics
+  * Automotive Systems
+  * Health Care Systems
 
 We observe that research related to **Explainable Software for Cyber-Physical Systems (ES4CPS)** is indeed conducted in the different communities, but the research is currently only weakly linked and there are no venues where an appropriate interdisciplinary coordination of research activities focused on ES4CPS takes place.
 
