@@ -45,10 +45,10 @@ We observe that research related to **Explainable Software for Cyber-Physical Sy
 ## Goal
 The goal of this GI-Dagstuhl Seminar is to serve as a starting point for an interdisciplinary coordination of research activities targeting ES4CPS. The seminar shall serve as an incubator of a new research community around this topic. From this main goal, we derive the following sub-goals for the seminar:
 
-Build a network of young researchers working on the topic of ES4CPS.
-Facilitate cross-disciplinary insights into research activities.
-Support researchers in identifying common goals, intersections, and connection points in their research.
-Foster cooperation of researchers leading to writing joint papers or project proposals. The seminar is also part of an effort to focus the software engineering community, and adjacent fields, towards the topic of explainable software.
+* Build a network of young researchers working on the topic of ES4CPS.
+* Facilitate cross-disciplinary insights into research activities.
+* Support researchers in identifying common goals, intersections, and connection points in their research.
+* Foster cooperation of researchers leading to writing joint papers or project proposals. The seminar is also part of an effort to focus the software engineering community, and adjacent fields, towards the topic of explainable software.
 
 ## Format
 The 5-day seminar includes the following components:
