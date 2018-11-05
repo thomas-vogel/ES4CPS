@@ -7,9 +7,11 @@ permalink: /participants.html
 
 ## Participants
 
-* [Amel Bennaceur](http://www.open.ac.uk/people/ab33792){:target="_blank"} (The Open University, UK)
+* [Amel Bennaceur](http://www.open.ac.uk/people/ab33792){:target="_blank"} (RWTH Aachen, DE)
+* [Dimitri Bohlender](https://embedded.rwth-aachen.de/doku.php?id=lehrstuhl:mitarbeiter:bohlender){:target="_blank"} (The Open University, UK)
 * [Markus Borg](https://www.sics.se/people/markus-borg){:target="_blank"} (RISE SICS, SE)
 * [Mathias Blumreiter](https://www.tuhh.de/sts/institute/people/mathias-blumreiter.html){:target="_blank"} (TU Hamburg, DE)
+* [Francisco Javier Chiyah Garcia](https://scholar.google.co.uk/citations?user=NQyCFjYAAAAJ&hl=en){:target="_blank"} (Heriot-Watt University, UK)
 * [Sebastian Götz](http://st.inf.tu-dresden.de/sgoetz/){:target="_blank"} (TU Dresden, DE)
 * [Simos Gerasimou](https://www-users.cs.york.ac.uk/simos/){:target="_blank"} (University of York, UK)
 * [Christopher Gerking](https://www.uni-paderborn.de/person/8391/){:target="_blank"} (University of Paderborn, DE)
