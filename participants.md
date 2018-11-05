@@ -7,7 +7,7 @@ permalink: /participants.html
 
 ## Participants
 
-* [Amel Bennaceur](http://www.open.ac.uk/people/ab33792){:target="_blank"} (RWTH Aachen, DE)
+* [Amel Bennaceur](http://www.open.ac.uk/people/ab33792){:target="_blank"} (The Open University, UK)
 * [Dimitri Bohlender](https://embedded.rwth-aachen.de/doku.php?id=lehrstuhl:mitarbeiter:bohlender){:target="_blank"} (RWTH Aachen, DE)
 * [Markus Borg](https://www.sics.se/people/markus-borg){:target="_blank"} (RISE SICS, SE)
 * [Mathias Blumreiter](https://www.tuhh.de/sts/institute/people/mathias-blumreiter.html){:target="_blank"} (TU Hamburg, DE)
