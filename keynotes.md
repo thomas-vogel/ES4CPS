@@ -38,6 +38,8 @@ In this presentation we will first discuss the envisioned future scenarios for e
 
 [__Holger Giese__](https://hpi.de/en/giese/staff/prof-dr-holger-giese.html){:target="_blank"} studied technical computer science at the University Siegen. He received his engineering degree with excellence in October 1995. In February 2001, he received a doctorate in Computer Science at the Institute of Computer Science at the University of Münster with summa cum laude. Until 2006, he was an assistant professor for object-oriented specification of distributed systems in the Software Engineering Group of the University of Paderborn. Since 2006, he was a Visiting Professor for System Analysis and Modeling at the Hasso Plattner Institute for Software Systems Engineering. He became a Full Professor for System Analysis and Modeling at the Hasso Plattner Institute for Software Systems Engineering in February 2008.
 
+<hr>
+
 ## Mohammad Reza Mousavi -- Conformance Testing as a Tool for Designing Connected Vehicle Functions
 
 Connected and Autonomous Vehicles (CAV) are taking a central position in the landscape of intelligent mobility and their rigorous verification and validation is one of the main challenges in their public deployment and social acceptance. Conformance testing is a rigorous verification technique that has been widely tried in various critical applications. In this talk, we examin the adaptations and extensions of the notions of conformance and model-based testing techniques that make them suitable for application in the CAV domain. We present how the extended techniques can be used in the design of connected vehicle functions and verify various design decisions.
