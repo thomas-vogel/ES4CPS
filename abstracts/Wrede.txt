@@ -1,0 +1,21 @@
+Modern robots have evolved to complex hardware and software systems. As
+such, their construction and maintenance have become more challenging
+and the potential for failures has increased. These failures and the
+resulting reduction of dependability have a considerable effect on the
+acceptance and usefulness of robotics systems in their intended applications.
+Even though different software engineering techniques have been developed
+to control dependability-critical aspects of such complex systems,
+the state of the art for (experimental) robotics and intelligent systems
+typically is that – if at all – functional properties are systematically
+controlled though techniques such as unit testing and simulation runs.
+Yet, system dependability and explainability of the systems behavior
+can also be impaired if nonfunctional properties behave unexpectedly.
+This presentation focuses on the utilization of system resources such
+as CPU, memory, or network bandwidth as an important nonfunctional aspect,
+which has not received much systematic treatment in robotics and intelligent
+systems so far. The systematic analysis of a system’s resource utilization,
+testing and runtime fault detection for unexpected resource utilization patterns
+are required improvements towards robots with explainable and more robust behavior.
+In this talk we demonstrate an approach to utilize performance tests as a basis
+for learning resource utilization models of components and discuss how these
+data-driven models can be used to detect faults at system runtime.
