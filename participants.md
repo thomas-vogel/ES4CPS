@@ -17,7 +17,7 @@ permalink: /participants.html
 * [Holger Giese](https://hpi.de/en/giese/staff/prof-dr-holger-giese.html){:target="_blank"} (HPI, University of Potsdam, DE)
 * [Joel Greenyer](http://jgreen.de/){:target="_blank"} (Leibniz Universität Hannover, DE)
 * [Holger Hermanns](https://depend.cs.uni-saarland.de/~hermanns/){:target="_blank"} (Saarland University, DE)
-* [Nico Hochgeschwender](https://wwwen.uni.lu/snt/people/nico_hochgeschwender){:target="_blank"} (Université du Luxembourg, LU)
+* [Nico Hochgeschwender](http://www.dlr.de/sc){:target="_blank"} (German Aerospace Center (DLR), DE)
 * [Jesper	Karlsson](https://www.kth.se/profile/jeskarl){:target="_blank"} (KTH Royal Institute of Technology, SE)
 * [Narges Khakpour](https://lnu.se/en/staff/narges.khakpour/){:target="_blank"} (Linnaeus University, SE)
 * [Verena Klös](https://www.sese.tu-berlin.de/menue/ueber_uns/team/verena_kloes/){:target="_blank"} (TU Berlin, DE)

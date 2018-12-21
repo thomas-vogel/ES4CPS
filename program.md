@@ -28,7 +28,8 @@ permalink: /program.html
 * [Christopher Gerking](https://www.uni-paderborn.de/person/8391/){:target="_blank"}: Explainability of Cyber-Physical Security Threats ([Abstract](abstracts/Gerking.pdf))
 * [Narges Khakpour](https://lnu.se/en/staff/narges.khakpour/){:target="_blank"}: Security Explainability Challenges in Cyber-Physical Systems ([Abstract](abstracts/Khakpour.pdf))
 * [Andreas Wortmann](http://www.se-rwth.de/staff/wortmann/){:target="_blank"}: Towards Modeling Languages for Explainable Robotics ([Abstract](abstracts/Wortmann.pdf))
-* [Nico Hochgeschwender](https://wwwen.uni.lu/snt/people/nico_hochgeschwender){:target="_blank"}: _tba_
+* [Nico Hochgeschwender](http://www.dlr.de/sc){:target="_blank"}: Improving the Explainability of Autonomous and Intelligent
+Systems with Conversational Interfaces ([Abstract](abstracts/Hochgeschwender.pdf))
 * [Thomas Vogel](http://thomas-vogel.github.io/){:target="_blank"}: Towards Explainable Quality Assurance of Behavioral Requirements
 * [Andreas Vogelsang](https://www.dcaiti.tu-berlin.de/people/vogelsang/){:target="_blank"}: Towards Explainable RE Tools ([Abstract](abstracts/Vogelsang.pdf))
 * [Markus Borg](https://www.sics.se/people/markus-borg){:target="_blank"}: Explainability First! Cousteauing the Depths of Neural Networks to Argue Safety ([Abstract](abstracts/Borg.pdf))
