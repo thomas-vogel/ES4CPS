@@ -25,8 +25,9 @@ permalink: /program.html
 
 ### Monday
 
-* [Christopher Gerking](https://www.uni-paderborn.de/person/8391/){:target="_blank"}: Explainability of Cyber-Physical Security Threats ([Abstract](abstracts/Gerking.pdf))
-* [Narges Khakpour](https://lnu.se/en/staff/narges.khakpour/){:target="_blank"}: Security Explainability Challenges in Cyber-Physical Systems ([Abstract](abstracts/Khakpour.pdf))
+* [Dimitri Bohlender](https://embedded.rwth-aachen.de/doku.php?id=lehrstuhl:mitarbeiter:bohlender){:target="_blank"}: Explainable Restart-Behaviour of Reactive Systems Software ([Abstract](abstracts/Bohlender.pdf))
+* [Lars Luthmann](https://www.es.tu-darmstadt.de/es/team/lars-luthmann/){:target="_blank"} and [Malte Lochau](http://www.es.tu-darmstadt.de/es/team/malte-lochau){:target="_blank"}: Model-based Testing Strategies for Configurable Software
+with Unbounded Parametric Real-Time Constraints ([Abstract](abstracts/Luthmann.pdf))
 * [Andreas Wortmann](http://www.se-rwth.de/staff/wortmann/){:target="_blank"}: Towards Modeling Languages for Explainable Robotics ([Abstract](abstracts/Wortmann.pdf))
 * [Nico Hochgeschwender](http://www.dlr.de/sc){:target="_blank"}: Improving the Explainability of Autonomous and Intelligent
 Systems with Conversational Interfaces ([Abstract](abstracts/Hochgeschwender.pdf))
@@ -41,9 +42,8 @@ Manoeuvres on Freeways and in Urban Traffic ([Abstract](abstracts/Schwammberger.
 
 * [Ilias Gerostathopoulos](http://www4.in.tum.de/~gerostat/){:target="_blank"}: Automated Experimentation for Online Learning and
 Adaptation ([Abstract](abstracts/Gerostathopoulos.pdf))
-* [Dimitri Bohlender](https://embedded.rwth-aachen.de/doku.php?id=lehrstuhl:mitarbeiter:bohlender){:target="_blank"}: Explainable Restart-Behaviour of Reactive Systems Software ([Abstract](abstracts/Bohlender.pdf))
-* [Lars Luthmann](https://www.es.tu-darmstadt.de/es/team/lars-luthmann/){:target="_blank"} and [Malte Lochau](http://www.es.tu-darmstadt.de/es/team/malte-lochau){:target="_blank"}: Model-based Testing Strategies for Configurable Software
-with Unbounded Parametric Real-Time Constraints ([Abstract](abstracts/Luthmann.pdf))
+* [Christopher Gerking](https://www.uni-paderborn.de/person/8391/){:target="_blank"}: Explainability of Cyber-Physical Security Threats ([Abstract](abstracts/Gerking.pdf))
+* [Narges Khakpour](https://lnu.se/en/staff/narges.khakpour/){:target="_blank"}: Security Explainability Challenges in Cyber-Physical Systems ([Abstract](abstracts/Khakpour.pdf))
 * [Francisco Javier Chiyah Garcia](https://scholar.google.co.uk/citations?user=NQyCFjYAAAAJ&hl=en){:target="_blank"}: Explainable Autonomy through Natural Language ([Abstract](abstracts/ChiyahGarcia.pdf))
 * [Sebastian Wrede](https://www.cor-lab.de/swrede){:target="_blank"}: Framework-level Resource Awareness for Robotics Systems ([Abstract](abstracts/Wrede.txt))
 * [Claudio Menghi](https://www.chalmers.se/en/staff/Pages/menghi.aspx){:target="_blank"}: Strategy Patterns for Multi-Agent CPS ([Abstract](abstracts/Menghi.pdf))
