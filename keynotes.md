@@ -8,29 +8,29 @@ permalink: /keynotes.html
 ## Keynote Speakers
 
 <table style="border:none; border-collapse:collapse; text-align:center;">
-  <tr style=" border: none;">
-    <td style=" border: none; padding:5px;">
-      <img style="width:188px;" src="assets/img/MohammadRezaMousavi.jpeg"/>
+  <tr style="border: none;">
+    <td style="border: none; padding:5px;">
+      <img style="max-height: 188px; width: auto;" src="assets/img/MohammadRezaMousavi.jpeg"/>
     </td>
-    <td style=" border: none; padding:15px;"></td>
-    <td style=" border: none; padding:5px;">
-      <img style="height:188px;" src="assets/img/HolgerGiese.jpeg"/>
+    <td style="border: none; padding:15px;"></td>
+    <td style="border: none; padding:5px;">
+      <img style="max-height: 188px; width: auto;" src="assets/img/HolgerGiese.jpeg"/>
     </td>
-    <td style=" border: none; padding:15px;"></td>
-    <td style=" border: none; padding:5px;">
-      <img style="height:188px;" src="assets/img/HolgerHermanns.jpg"/>
+    <td style="border: none; padding:15px;"></td>
+    <td style="border: none; padding:5px;">
+      <img style="max-height: 188px; width: auto;" src="assets/img/HolgerHermanns.jpg"/>
     </td>
   </tr>
   <tr>
-    <td style=" border: none; padding:5px;">
+    <td style="border: none; padding:5px;">
       <a href="#mohammad-reza-mousavi--conformance-testing-as-a-tool-for-designing-connected-vehicle-functions">Mohammad Reza Mousavi</a>
     </td>
-    <td style=" border: none; padding:15px;"></td>
-    <td style=" border: none; padding:5px;">
+    <td style="border: none; padding:15px;"></td>
+    <td style="border: none; padding:5px;">
       <a href="#holger-giese--challenges-for-engineering-smart-cyber-physical-systems">Holger Giese</a>
     </td>
-    <td style=" border: none; padding:15px;"></td>
-    <td style=" border: none; padding:5px;">
+    <td style="border: none; padding:15px;"></td>
+    <td style="border: none; padding:5px;">
       <a href="#holger-hermanns--foundations-of-perspicuous-software-systems">Holger Hermanns</a>
     </td>
   </tr>
