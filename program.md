@@ -31,7 +31,7 @@ with Unbounded Parametric Real-Time Constraints ([Abstract](abstracts/Luthmann.p
 * [Andreas Wortmann](http://www.se-rwth.de/staff/wortmann/){:target="_blank"}: Towards Modeling Languages for Explainable Robotics ([Abstract](abstracts/Wortmann.pdf))
 * [Nico Hochgeschwender](http://www.dlr.de/sc){:target="_blank"}: Improving the Explainability of Autonomous and Intelligent
 Systems with Conversational Interfaces ([Abstract](abstracts/Hochgeschwender.pdf))
-* [Thomas Vogel](http://thomas-vogel.github.io/){:target="_blank"}: Explainable Quality Assurance of Behavioral Requirements
+* [Thomas Vogel](http://thomas-vogel.github.io/){:target="_blank"}: Explainable Quality Assurance of Behavioral Requirements ([Abstract](abstracts/Vogel.pdf))
 * [Andreas Vogelsang](https://www.dcaiti.tu-berlin.de/people/vogelsang/){:target="_blank"}: Towards Explainable RE Tools ([Abstract](abstracts/Vogelsang.pdf))
 * [Markus Borg](https://www.sics.se/people/markus-borg){:target="_blank"}: Explainability First! Cousteauing the Depths of Neural Networks to Argue Safety ([Abstract](abstracts/Borg.pdf))
 * [Maike Schwammberger](https://uol.de/csd/persons/maike-schwammberger-msc/){:target="_blank"}: Distributed Controllers for Provably Live and Safe Car
