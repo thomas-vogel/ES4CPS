@@ -51,9 +51,9 @@ Adaptation ([Abstract](abstracts/Gerostathopoulos.pdf))
 * [Verena Klös](https://www.sese.tu-berlin.de/menue/ueber_uns/team/verena_kloes/){:target="_blank"}: Explainable Self-Learning Self-Adaptive Systems ([Abstract](abstracts/Kloes.pdf))
 * [Mathias Blumreiter](https://www.tuhh.de/sts/institute/people/mathias-blumreiter.html){:target="_blank"}: Refining incomplete models through system observations
 with NuSMV ([Abstract](abstracts/Blumreiter.pdf))
-* [Maximilian Köhl](https://www.koehlma.de/){:target="_blank"}: _tba_
+* [Maximilian Köhl](https://www.koehlma.de/){:target="_blank"}: Explainable Automotive Emissions ([Abstract](abstracts/Koehl.pdf))
 
 ### Wednesday
 
 * [Christoph Sommer](http://www.ccs-labs.org/~sommer/){:target="_blank"}: Multi-Technology and Multi-Level Cooperative Mobile Systems in Smart Cities of Tomorrow
-* [Joel Greenyer](http://jgreen.de/){:target="_blank"}: _tba_
+* [Joel Greenyer](http://jgreen.de/){:target="_blank"}: Towards Explainable Controller Synthesis and Reinforcement Learning for Cyber-Physical Systems ([Abstract](abstracts/Greenyer.pdf))
