@@ -33,7 +33,7 @@ with Unbounded Parametric Real-Time Constraints ([Abstract](abstracts/Luthmann.p
 Systems with Conversational Interfaces ([Abstract](abstracts/Hochgeschwender.pdf))
 * [Thomas Vogel](http://thomas-vogel.github.io/){:target="_blank"}: Explainable Quality Assurance of Behavioral Requirements ([Abstract](abstracts/Vogel.pdf))
 * [Andreas Vogelsang](https://www.dcaiti.tu-berlin.de/people/vogelsang/){:target="_blank"}: Towards Explainable RE Tools ([Abstract](abstracts/Vogelsang.pdf), [Slides](slides/Vogelsang.pdf))
-* [Markus Borg](https://www.sics.se/people/markus-borg){:target="_blank"}: Explainability First! Cousteauing the Depths of Neural Networks to Argue Safety ([Abstract](abstracts/Borg.pdf))
+* [Markus Borg](https://www.sics.se/people/markus-borg){:target="_blank"}: Explainability First! Cousteauing the Depths of Neural Networks to Argue Safety ([Abstract](abstracts/Borg.pdf), [Slides](slides/Borg.pdf))
 * [Maike Schwammberger](https://uol.de/csd/persons/maike-schwammberger-msc/){:target="_blank"}: Distributed Controllers for Provably Live and Safe Car
 Manoeuvres on Freeways and in Urban Traffic ([Abstract](abstracts/Schwammberger.pdf))
 * [Jesper	Karlsson](https://www.kth.se/profile/jeskarl){:target="_blank"}: Formal-methods based motion-planning for mobility-on-demand and its application on fleets of autonomous vehicles -- an ES4CPS problem ([Abstract](abstracts/Karlsson.pdf))
