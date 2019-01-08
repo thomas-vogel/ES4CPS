@@ -48,7 +48,7 @@ Adaptation ([Abstract](abstracts/Gerostathopoulos.pdf))
 * [Sebastian Wrede](https://www.cor-lab.de/swrede){:target="_blank"}: Framework-level Resource Awareness for Robotics Systems ([Abstract](abstracts/Wrede.txt))
 * [Claudio Menghi](https://www.chalmers.se/en/staff/Pages/menghi.aspx){:target="_blank"}: Strategy Patterns for Multi-Agent CPS ([Abstract](abstracts/Menghi.pdf))
 * [Simos Gerasimou](https://www-users.cs.york.ac.uk/simos/){:target="_blank"}: Safety Assurance of Cyber-Physical Systems: Mind the Gap ([Abstract](abstracts/Gerasimou.txt))
-* [Verena Klös](https://www.sese.tu-berlin.de/menue/ueber_uns/team/verena_kloes/){:target="_blank"}: Explainable Self-Learning Self-Adaptive Systems ([Abstract](abstracts/Kloes.pdf))
+* [Verena Klös](https://www.sese.tu-berlin.de/menue/ueber_uns/team/verena_kloes/){:target="_blank"}: Explainable Self-Learning Self-Adaptive Systems ([Abstract](abstracts/Kloes.pdf), [Slides](slides/Kloes.pdf))
 * [Mathias Blumreiter](https://www.tuhh.de/sts/institute/people/mathias-blumreiter.html){:target="_blank"}: Refining incomplete models through system observations
 with NuSMV ([Abstract](abstracts/Blumreiter.pdf))
 * [Maximilian Köhl](https://www.koehlma.de/){:target="_blank"}: Explainable Automotive Emissions ([Abstract](abstracts/Koehl.pdf))
