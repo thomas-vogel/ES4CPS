@@ -25,14 +25,14 @@ permalink: /program.html
 
 ### Monday
 
-* [Dimitri Bohlender](https://embedded.rwth-aachen.de/doku.php?id=lehrstuhl:mitarbeiter:bohlender){:target="_blank"}: Explainable Restart-Behaviour of Reactive Systems Software ([Abstract](abstracts/Bohlender.pdf))
+* [Dimitri Bohlender](https://embedded.rwth-aachen.de/doku.php?id=lehrstuhl:mitarbeiter:bohlender){:target="_blank"}: Explainable Restart-Behaviour of Reactive Systems Software ([Abstract](abstracts/Bohlender.pdf), [Slides](slides/Bohlender.pdf))
 * [Lars Luthmann](https://www.es.tu-darmstadt.de/es/team/lars-luthmann/){:target="_blank"} and [Malte Lochau](http://www.es.tu-darmstadt.de/es/team/malte-lochau){:target="_blank"}: Model-based Testing Strategies for Configurable Software
-with Unbounded Parametric Real-Time Constraints ([Abstract](abstracts/Luthmann.pdf))
-* [Andreas Wortmann](http://www.se-rwth.de/staff/wortmann/){:target="_blank"}: Towards Modeling Languages for Explainable Robotics ([Abstract](abstracts/Wortmann.pdf))
+with Unbounded Parametric Real-Time Constraints ([Abstract](abstracts/Luthmann.pdf), [Slides](slides/Luthmann.pdf))
+* [Andreas Wortmann](http://www.se-rwth.de/staff/wortmann/){:target="_blank"}: Towards Modeling Languages for Explainable Robotics ([Abstract](abstracts/Wortmann.pdf), [Slides](slides/Wortmann.pdf))
 * [Nico Hochgeschwender](http://www.dlr.de/sc){:target="_blank"}: Improving the Explainability of Autonomous and Intelligent
 Systems with Conversational Interfaces ([Abstract](abstracts/Hochgeschwender.pdf))
 * [Thomas Vogel](http://thomas-vogel.github.io/){:target="_blank"}: Explainable Quality Assurance of Behavioral Requirements ([Abstract](abstracts/Vogel.pdf))
-* [Andreas Vogelsang](https://www.dcaiti.tu-berlin.de/people/vogelsang/){:target="_blank"}: Towards Explainable RE Tools ([Abstract](abstracts/Vogelsang.pdf))
+* [Andreas Vogelsang](https://www.dcaiti.tu-berlin.de/people/vogelsang/){:target="_blank"}: Towards Explainable RE Tools ([Abstract](abstracts/Vogelsang.pdf), [Slides](slides/Vogelsang.pdf))
 * [Markus Borg](https://www.sics.se/people/markus-borg){:target="_blank"}: Explainability First! Cousteauing the Depths of Neural Networks to Argue Safety ([Abstract](abstracts/Borg.pdf))
 * [Maike Schwammberger](https://uol.de/csd/persons/maike-schwammberger-msc/){:target="_blank"}: Distributed Controllers for Provably Live and Safe Car
 Manoeuvres on Freeways and in Urban Traffic ([Abstract](abstracts/Schwammberger.pdf))
