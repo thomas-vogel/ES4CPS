@@ -55,5 +55,5 @@ with NuSMV ([Abstract](abstracts/Blumreiter.pdf))
 
 ### Wednesday
 
-* [Christoph Sommer](http://www.ccs-labs.org/~sommer/){:target="_blank"}: Multi-Technology and Multi-Level Cooperative Mobile Systems in Smart Cities of Tomorrow
+* [Christoph Sommer](http://www.ccs-labs.org/~sommer/){:target="_blank"}: Multi-Technology and Multi-Level Cooperative Mobile Systems in Smart Cities of Tomorrow ([Abstract](abstracts/Sommer.pdf))
 * [Joel Greenyer](http://jgreen.de/){:target="_blank"}: Towards Explainable Controller Synthesis and Reinforcement Learning for Cyber-Physical Systems ([Abstract](abstracts/Greenyer.pdf))
