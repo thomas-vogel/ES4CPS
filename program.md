@@ -35,7 +35,7 @@ Systems with Conversational Interfaces ([Abstract](abstracts/Hochgeschwender.pdf
 * [Andreas Vogelsang](https://www.dcaiti.tu-berlin.de/people/vogelsang/){:target="_blank"}: Towards Explainable RE Tools ([Abstract](abstracts/Vogelsang.pdf), [Slides](slides/Vogelsang.pdf))
 * [Markus Borg](https://www.sics.se/people/markus-borg){:target="_blank"}: Explainability First! Cousteauing the Depths of Neural Networks to Argue Safety ([Abstract](abstracts/Borg.pdf), [Slides](slides/Borg.pdf))
 * [Maike Schwammberger](https://uol.de/csd/persons/maike-schwammberger-msc/){:target="_blank"}: Distributed Controllers for Provably Live and Safe Car
-Manoeuvres on Freeways and in Urban Traffic ([Abstract](abstracts/Schwammberger.pdf))
+Manoeuvres on Freeways and in Urban Traffic ([Abstract](abstracts/Schwammberger.pdf), [Slides](slides/Schwammberger.pdf))
 * [Jesper	Karlsson](https://www.kth.se/profile/jeskarl){:target="_blank"}: Formal-methods based motion-planning for mobility-on-demand and its application on fleets of autonomous vehicles -- an ES4CPS problem ([Abstract](abstracts/Karlsson.pdf))
 
 ### Tuesday
@@ -44,7 +44,7 @@ Manoeuvres on Freeways and in Urban Traffic ([Abstract](abstracts/Schwammberger.
 Adaptation ([Abstract](abstracts/Gerostathopoulos.pdf))
 * [Christopher Gerking](https://www.uni-paderborn.de/person/8391/){:target="_blank"}: Explainability of Cyber-Physical Security Threats ([Abstract](abstracts/Gerking.pdf))
 * [Narges Khakpour](https://lnu.se/en/staff/narges.khakpour/){:target="_blank"}: Security Explainability Challenges in Cyber-Physical Systems ([Abstract](abstracts/Khakpour.pdf))
-* [Francisco Javier Chiyah Garcia](https://scholar.google.co.uk/citations?user=NQyCFjYAAAAJ&hl=en){:target="_blank"}: Explainable Autonomy through Natural Language ([Abstract](abstracts/ChiyahGarcia.pdf))
+* [Francisco Javier Chiyah Garcia](https://scholar.google.co.uk/citations?user=NQyCFjYAAAAJ&hl=en){:target="_blank"}: Explainable Autonomy through Natural Language ([Abstract](abstracts/ChiyahGarcia.pdf), [Slides](slides/ChiyahGarcia.pdf))
 * [Sebastian Wrede](https://www.cor-lab.de/swrede){:target="_blank"}: Framework-level Resource Awareness for Robotics Systems ([Abstract](abstracts/Wrede.txt))
 * [Claudio Menghi](https://www.chalmers.se/en/staff/Pages/menghi.aspx){:target="_blank"}: Strategy Patterns for Multi-Agent CPS ([Abstract](abstracts/Menghi.pdf))
 * [Simos Gerasimou](https://www-users.cs.york.ac.uk/simos/){:target="_blank"}: Safety Assurance of Cyber-Physical Systems: Mind the Gap ([Abstract](abstracts/Gerasimou.txt))
