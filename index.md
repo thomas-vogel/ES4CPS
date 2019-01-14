@@ -12,6 +12,8 @@ title: Explainable Software for Cyber-Physical Systems
 GI-Dagstuhl Seminar 19023 on _Explainable Software for Cyber-Physical Systems (ES4CPS)_
 <br />at Schloss Dagstuhl from January 6-11, 2019. Visit also: [https://www.dagstuhl.de/19023](https://www.dagstuhl.de/19023){:target="_blank"}
 
+<img src="assets/img/19023.03.l.jpg" alt="Group picture" style="width: 100%; margin-top: 1em;"/>
+
 ## Motivation
 Collaborating and autonomously driving cars, smart grids, as well as modern systems in industry (Industry 4.0) or health care are examples of communicating embedded systems where software enables increasingly advanced functionality. These novel kinds of (software) systems are frequently summarized under the term **cyber-physical systems (CPS)**. CPS are usually described by three essential characteristics: CPS perform complex computations, CPS conduct control tasks involving discrete and continuous data and signal-processing, and CPS are (parts of) distributed, and even mobile, communication systems.
 
