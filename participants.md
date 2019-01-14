@@ -31,4 +31,3 @@ permalink: /participants.html
 * [Thomas Vogel](http://thomas-vogel.github.io/){:target="_blank"} (HU Berlin, DE)
 * [Andreas Vogelsang](https://www.dcaiti.tu-berlin.de/people/vogelsang/){:target="_blank"} (TU Berlin, DE)
 * [Andreas Wortmann](http://www.se-rwth.de/staff/wortmann/){:target="_blank"} (RWTH Aachen, DE)
-* [Sebastian Wrede](https://www.cor-lab.de/swrede){:target="_blank"} (University of Bielefeld, DE)
