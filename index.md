@@ -12,6 +12,12 @@ title: Explainable Software for Cyber-Physical Systems
 GI-Dagstuhl Seminar 19023 on _Explainable Software for Cyber-Physical Systems (ES4CPS)_
 <br />at Schloss Dagstuhl from January 6-11, 2019. Visit also: [https://www.dagstuhl.de/19023](https://www.dagstuhl.de/19023){:target="_blank"}
 
+<div style="width: 30%; float: left; margin-right: 20px; margin-top: 25px; margin-bottom: 25px;">
+<a href="https://arxiv.org/abs/1904.11851" target="_blank"><img src="assets/img/report.png" alt="report"/></a>
+</div>
+<br/><br/>
+The report of the seminar is now available online: [_Explainable Software for Cyber-Physical Systems (ES4CPS): Report from the GI Dagstuhl Seminar 19023, January 06-11 2019, Schloss Dagstuhl_](https://arxiv.org/abs/1904.11851){:target="_blank"}. It contains the extended abstracts of the breakout-group discussions and of all talks given at the seminar.
+
 <img src="assets/img/19023.03.l.jpg" alt="Group picture" style="width: 100%; margin-top: 1em;"/>
 
 ## Motivation
